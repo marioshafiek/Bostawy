@@ -1,0 +1,24 @@
+.pumpCart {
+    animation: pumping 300ms ease-in-out;
+  }
+  
+  @keyframes pumping {
+    0% {
+      transform: scale(1);
+    }
+    20% {
+      transform: scale(0.8);
+    }
+    30% {
+      transform: scale(1.2);
+    }
+    50% {
+      transform: scale(0.9);
+    }
+    70% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }

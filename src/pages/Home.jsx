@@ -5,11 +5,6 @@ import Logo from "../assets/svg/BostawyLogo.svg?react";
 const Home = () => {
   return (
     <div className="relative flex flex-col justify-center items-center min-h-[600px] md:min-h-[550px]">
-      {/* Background logo */}
-      <div className="absolute inset-0 flex justify-center items-center opacity-4">
-        <Logo className="w-2/3 h-2/3" />
-      </div>
-
       <div className="z-10 flex flex-col gap-5 justify-center items-center">
         <Link
           to="/shop"

@@ -1,7 +1,7 @@
 // Redux
 import { useSelector } from "react-redux";
 //Images
-import Cart from "../../../assets/svg/cart.svg?react";
+import Cart from "../../../assets/svg/Cart.svg?react";
 //Util
 import getCartTotalQuantity from "../../../utils/getCartTotalQuantity";
 

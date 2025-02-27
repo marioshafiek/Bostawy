@@ -119,7 +119,7 @@ The project is fully responsive, The design was tested on various devices to ens
 ## 🚀 Live Demo
 
 <p align="center">
-  <a href="https://bostawy.vercel.app/" target="_blank" style="text-decoration: none;">
+  <a href="https://bostawy-git-main-marios-projects-da66d6d6.vercel.app/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Explore-Live%20Demo-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
   </a>
 </p>
